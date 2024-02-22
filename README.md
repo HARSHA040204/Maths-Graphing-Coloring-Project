@@ -33,3 +33,11 @@ Run the visualization script:
    pip install matplotlib
    ```
 
+
+## Group Members:
+- V Sai Sumanth
+- D Veera Harsha Vardhan Reddy
+- K Sri Tej Vishnu
+
+Feel free to contact for any querys 
+dveeraharshavardhanreddy@gmail.com
